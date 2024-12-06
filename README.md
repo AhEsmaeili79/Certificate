@@ -1,22 +1,49 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1QXU3TmhGbWNCcU1uaWthNEtWazdoNFpkVjN3RDRoRnRKOFBKM0FsSHpMZVUxY2hFQmF6MTlhNjQzcTdoQlBW@79.127.239.84:19175#Netherlands🇳🇱
+☕️🍫🍩🧁🍪🥛🥧🫖
 
-wireguard://yKti6bw9KM9jLYuTcv7BfJE7IZ%2FtDRTcuCJ41dZZWVk%3D@[2606:4700:d0::5b09:b05a:d8f9:5371]:945?address=172.16.0.2%2F32&reserved=2%2C162%2C199&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#Warp
+🆓 Config - Access key ✅ Applicable in:
 
-( همه اپراتور ها 1 )
+🤩  FoXray   🤩  V2rayNg
 
-vless://e424094c-d2bf-450c-8037-13814aa1d7f5@78.157.59.173:2082?security=none&encryption=none&host=Zulla.ir&headerType=http&type=tcp#%40v2rayland02%F0%9F%8C%90
+🤩  V2Box    🤩  Outline
 
-vless://bb78706c-c189-4259-bf5d-e4ac22fab298@79.127.70.76:443?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#%40v2rayland02%F0%9F%8C%90
+🔄 جهت عملکرد بهتر نرم افزار را آپدیت کنید.
+👆با یک ضربه روی کانفیگ کپی می‌شود.
 
-vless://Parsashonam-92@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#%40v2rayland02%F0%9F%8C%90
+🟢🟢
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#join+01+ID%28%40Outline_Vpn%29
 
-vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=IsaA1.pAGEs.DEV&fp=randomized&type=ws&sni=iSaA1.paGes.DEv#%40v2rayland02%F0%9F%8C%90
+🔴🔴
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#join+02+ID%28%40Outline_Vpn%29
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=JOiNMAHdiSERVer-BG3.Pages.dEv&fp=randomized&type=ws&sni=JOiNmahDIsErVER-Bg3.PAGes.deV#%40v2rayland02%F0%9F%8C%90
+🟣🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#join+03+ID%28%40Outline_Vpn%29
+
+🟠🟠
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#join+04+ID%28%40Outline_Vpn%29
+
+🔵🔵
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#join+05+ID%28%40Outline_Vpn%29
 
 
-سرعت عالی 👌
+🛍🛍👇 هرلحظه وصل باش ! 
 
-برای دریافت سرور اختصاصی به کانال بپیوندید 🙏
+💎 جهت خرید اشتراک اختصاصی VIP بدون قطعی اینجا کلیک کنید .
+⭕️🚨 تیم ما هیچ ربات یا اکانت دیگری غیر از آدرس زیر ندارد:
+✅ @Ads_Central_Net 
 
-مارو به د‌وستات معرفی کن 😉
+🔖  آموزش نحوه اتصال
+🛡  کانال پروکسی تلگرام کلیک کنید 
+
+⌛  عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.
+
+🚀 @Outline_Vpn
+✅ @Ads_Central_Net
+
+
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.70.99:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#Free%20ID%28%40Outline_Vpn%29%202090
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.49.114:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#Free%20ID%28%40Outline_Vpn%29%202091
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.157.1:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#Free%20ID%28%40Outline_Vpn%29%202092
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.247.119:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#Free%20ID%28%40Outline_Vpn%29%202093
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@ip.sb:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#Free%20ID%28%40Outline_Vpn%29%202094
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@kinsta.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#Free%20ID%28%40Outline_Vpn%29%202095
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.31:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#Free%20ID%28%40Outline_Vpn%29%202096
